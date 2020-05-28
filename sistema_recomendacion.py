@@ -226,4 +226,3 @@ def funcion_main():
         for i in range(len(lista_similares)):
             lista_ids.append(lista_similares[i][0] + 1)
         print(lista_ids)
-        
